@@ -1,5 +1,5 @@
 /* Maria Maldonado 1000061100 */
-/* This is an edit practice. */
+/* This is a VS edit practice. */
 
 #include <stdio.h>
 #include <string.h>
